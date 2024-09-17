@@ -1,0 +1,8 @@
+Popular Interview Question
+- Networking fundamental
+- How Internet works
+- Frontend Backend interaction in depth
+- Rest Concepts
+- Difference between HTTP Methods
+- Http header based Question
+- Cors in depth
